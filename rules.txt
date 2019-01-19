@@ -1,0 +1,12 @@
+S
+S -> ZT|XF|YR|a
+E -> ZT|XF|YR|a
+T -> XF|YR|a
+F -> YR|a
+A -> *
+P -> +
+L -> (
+R -> )
+X -> TA
+Y -> LE
+Z -> EP
